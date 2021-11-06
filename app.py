@@ -1,5 +1,6 @@
 import os
 import pytesseract
+import tkinter as tk
 from PIL import Image
 
 def main():
